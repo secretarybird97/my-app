@@ -20,6 +20,7 @@
     "typescript": "5.0.2"
   },
   "devDependencies": {
-    "eslint-config-prettier": "^8.8.0"
+    "eslint-config-prettier": "^8.8.0",
+    "sass": "^1.60.0"
   }
 }
